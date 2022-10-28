@@ -1,0 +1,3 @@
+rootProject.name = "InhaCreativeElectronicDesign"
+include ':app'
+include ':sdk'
